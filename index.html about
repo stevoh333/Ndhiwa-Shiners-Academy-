@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>About - Ndhiwa Shiners Academy</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header>
+  <h1>Ndhiwa Shiners Academy</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="courses.html">Courses</a>
+    <a href="news.html">News</a>
+    <a href="admissions.html">Admissions</a>
+  </nav>
+</header>
+
+<main>
+  <section>
+    <h2>About Us</h2>
+    <p>Ndhiwa Shiners Academy is a premier school dedicated to providing quality education in Ndhiwa and surrounding areas. We focus on academics, sports, arts, and moral development.</p>
+  </section>
+
+  <section>
+    <h2>Our Mission</h2>
+    <p>To nurture bright minds and responsible citizens through quality education and holistic development.</p>
+  </section>
+
+  <section>
+    <h2>Our Vision</h2>
+    <p>To be the leading academy in Ndhiwa, producing well-rounded, knowledgeable, and skilled graduates.</p>
+  </section>
+</main>
+
+<footer>
+  <p>&copy; 2025 Ndhiwa Shiners Academy</p>
+</footer>
+</body>
+</html> 
