@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Courses - Ndhiwa Shiners Academy</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header>
+  <h1>Ndhiwa Shiners Academy</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="courses.html">Courses</a>
+    <a href="news.html">News</a>
+    <a href="admissions.html">Admissions</a>
+  </nav>
+</header>
+
+<main>
+  <section>
+    <h2>Our Curriculum</h2>
+    <ul>
+      <li>Cretche and EYE Education </li>
+      <li>Primary School Curriculum (Grades 1–6)</li>
+      <li>Junior School Curriculum (Grades 7-9)</li>
+      <li>Computer Studies and ICT</li>
+      <li>Sports and Physical Education</li>
+      <li>Art and Music Programs</li>
+    </ul>
+  </section>
+</main>
+
+<footer>
+  <p>&copy; 2025 Ndhiwa Shiners Academy</p>
+</footer>
+</body>
+</html>
